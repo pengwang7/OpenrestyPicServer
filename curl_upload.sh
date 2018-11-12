@@ -1,0 +1,1 @@
+curl -F "image=@123.jpeg" http://127.0.0.1:8081/upload/c142dd39f8222e1d/5422895b6f2a45aa/123.jpeg

@@ -1,0 +1,114 @@
+2018/10/26 17:54:39 [emerg] 30591#30591: open() "/home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/mime.types" failed (2: No such file or directory) in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:29
+2018/10/28 04:16:10 [emerg] 19781#19781: unexpected end of file, expecting "}" in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:52
+2018/10/28 04:25:38 [alert] 20306#20306: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/10/28 04:25:48 [alert] 20318#20318: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/10/28 04:25:52 [alert] 20326#20326: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/10/28 04:26:50 [alert] 20388#20388: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/10/28 04:26:50 [notice] 20388#20388: signal process started
+2018/10/28 15:03:40 [alert] 20223#20223: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/10/28 15:03:40 [notice] 20223#20223: signal process started
+2018/11/08 14:58:24 [alert] 1972#1972: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/08 14:58:24 [notice] 1972#1972: signal process started
+2018/11/08 14:59:34 [alert] 2049#2049: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/08 14:59:34 [notice] 2049#2049: signal process started
+2018/11/08 15:02:46 [alert] 2237#2237: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/08 15:02:46 [notice] 2237#2237: signal process started
+2018/11/08 18:11:01 [alert] 11524#11524: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/08 18:11:01 [notice] 11524#11524: signal process started
+2018/11/08 18:13:03 [alert] 11642#11642: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/08 18:13:03 [notice] 11642#11642: signal process started
+2018/11/08 18:13:27 [notice] 11671#11671: signal process started
+2018/11/08 18:15:50 [notice] 11800#11800: signal process started
+2018/11/08 18:16:07 [notice] 11829#11829: signal process started
+2018/11/08 18:17:01 [notice] 11900#11900: signal process started
+2018/11/08 18:22:11 [notice] 12167#12167: signal process started
+2018/11/08 18:25:53 [notice] 12360#12360: signal process started
+2018/11/08 18:28:46 [emerg] 12513#12513: unknown directive "--debug" in ./conf/nginx.conf:27
+2018/11/08 18:29:02 [alert] 12528#12528: lua_code_cache is off; this will hurt performance in ./conf/nginx.conf:27
+2018/11/08 18:29:02 [notice] 12528#12528: signal process started
+2018/11/08 18:31:04 [alert] 12645#12645: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/08 18:31:04 [notice] 12645#12645: signal process started
+2018/11/08 18:32:14 [alert] 12714#12714: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/08 18:32:14 [notice] 12714#12714: signal process started
+2018/11/08 18:35:29 [alert] 12885#12885: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/08 18:35:29 [notice] 12885#12885: signal process started
+2018/11/08 18:37:33 [alert] 12996#12996: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/08 18:37:33 [notice] 12996#12996: signal process started
+2018/11/08 18:38:27 [alert] 13049#13049: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/08 18:38:27 [notice] 13049#13049: signal process started
+2018/11/08 18:40:06 [alert] 13143#13143: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/08 18:40:06 [notice] 13143#13143: signal process started
+2018/11/08 18:41:59 [alert] 13246#13246: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/08 18:41:59 [notice] 13246#13246: signal process started
+2018/11/08 18:45:33 [alert] 13456#13456: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/08 18:45:33 [notice] 13456#13456: signal process started
+2018/11/08 18:46:51 [alert] 13528#13528: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/08 18:46:51 [notice] 13528#13528: signal process started
+2018/11/08 18:48:11 [alert] 13603#13603: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/08 18:48:11 [notice] 13603#13603: signal process started
+2018/11/08 18:48:45 [alert] 13638#13638: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/08 18:48:45 [notice] 13638#13638: signal process started
+2018/11/08 18:49:34 [alert] 13686#13686: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/08 18:49:34 [notice] 13686#13686: signal process started
+2018/11/08 18:51:00 [alert] 13767#13767: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/08 18:51:00 [notice] 13767#13767: signal process started
+2018/11/08 18:52:07 [alert] 13828#13828: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/08 18:52:07 [notice] 13828#13828: signal process started
+2018/11/08 18:53:00 [alert] 13879#13879: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/08 18:53:00 [notice] 13879#13879: signal process started
+2018/11/08 18:55:43 [alert] 14176#14176: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/08 18:55:43 [notice] 14176#14176: signal process started
+2018/11/08 18:56:13 [alert] 14209#14209: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/08 18:56:13 [notice] 14209#14209: signal process started
+2018/11/08 18:57:50 [alert] 14302#14302: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/08 18:57:50 [notice] 14302#14302: signal process started
+2018/11/08 19:00:50 [alert] 14460#14460: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/08 19:00:50 [notice] 14460#14460: signal process started
+2018/11/08 19:04:53 [alert] 14675#14675: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/08 19:04:53 [notice] 14675#14675: signal process started
+2018/11/08 19:10:00 [alert] 14931#14931: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/08 19:10:00 [notice] 14931#14931: signal process started
+2018/11/08 19:10:29 [alert] 14967#14967: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/08 19:10:29 [notice] 14967#14967: signal process started
+2018/11/08 19:11:37 [alert] 15030#15030: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/08 19:11:37 [notice] 15030#15030: signal process started
+2018/11/08 19:16:08 [alert] 15260#15260: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/08 19:16:08 [notice] 15260#15260: signal process started
+2018/11/08 19:21:19 [alert] 15530#15530: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/08 19:21:19 [notice] 15530#15530: signal process started
+2018/11/08 19:25:50 [alert] 15813#15813: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/08 19:25:50 [notice] 15813#15813: signal process started
+2018/11/08 19:28:47 [alert] 15968#15968: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/08 19:28:47 [notice] 15968#15968: signal process started
+2018/11/08 19:29:05 [alert] 15993#15993: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/08 19:29:05 [notice] 15993#15993: signal process started
+2018/11/08 19:30:17 [alert] 16070#16070: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/08 19:30:17 [notice] 16070#16070: signal process started
+2018/11/08 19:30:42 [alert] 16101#16101: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/08 19:30:42 [notice] 16101#16101: signal process started
+2018/11/08 19:31:54 [alert] 16168#16168: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/08 19:31:54 [notice] 16168#16168: signal process started
+2018/11/08 20:15:07 [alert] 18332#18332: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/08 20:15:07 [notice] 18332#18332: signal process started
+2018/11/08 20:18:10 [alert] 18495#18495: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/08 20:18:10 [notice] 18495#18495: signal process started
+2018/11/08 20:19:17 [alert] 18558#18558: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/08 20:19:17 [notice] 18558#18558: signal process started
+2018/11/08 20:21:20 [alert] 18673#18673: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/08 20:21:20 [notice] 18673#18673: signal process started
+2018/11/08 20:24:51 [alert] 18857#18857: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/08 20:24:51 [notice] 18857#18857: signal process started
+2018/11/08 20:29:33 [alert] 19096#19096: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/08 20:29:33 [notice] 19096#19096: signal process started
+2018/11/11 20:25:56 [alert] 4738#4738: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/11 20:25:56 [notice] 4738#4738: signal process started
+2018/11/11 22:07:39 [alert] 9877#9877: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/11 22:07:39 [notice] 9877#9877: signal process started
+2018/11/11 23:52:21 [alert] 15126#15126: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/11 23:52:21 [notice] 15126#15126: signal process started
+2018/11/11 23:58:19 [alert] 15454#15454: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/11 23:58:19 [notice] 15454#15454: signal process started
+2018/11/12 00:04:35 [alert] 15796#15796: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/12 00:04:35 [notice] 15796#15796: signal process started
+2018/11/12 00:07:51 [alert] 15978#15978: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/12 00:07:51 [notice] 15978#15978: signal process started
