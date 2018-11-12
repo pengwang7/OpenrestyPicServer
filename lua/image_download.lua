@@ -175,14 +175,14 @@ local function process_start()
 		ngx.log(ngx.ERR, "cmd=", cmd)
 		os.execute(cmd)
 	end
---[[	
+	
 	if file_exist(all_name) then
 		local internal_uri = string.format("/download_internal/%s", ngx.var.image_name)
 		ngx.exec(internal_uri)
 	else
 		ngx.exit(ngx.HTTP_NOT_FOUND)
 	end
-	]]--
+
 	ngx.log(ngx.ERR, "real_image_name:", real_image_name, " area:", area)
 --[[	
     if index then

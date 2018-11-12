@@ -112,3 +112,6 @@
 2018/11/12 00:04:35 [notice] 15796#15796: signal process started
 2018/11/12 00:07:51 [alert] 15978#15978: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
 2018/11/12 00:07:51 [notice] 15978#15978: signal process started
+2018/11/12 14:01:14 [alert] 25131#25131: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
+2018/11/12 14:01:14 [notice] 25131#25131: signal process started
+2018/11/12 14:01:45 [alert] 25167#25167: lua_code_cache is off; this will hurt performance in /home/wangpeng/WorkSpaceForMe/Openresty/OpenrestyPicServer/conf/nginx.conf:27
